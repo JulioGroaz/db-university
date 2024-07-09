@@ -1,0 +1,4 @@
+SELECT * 
+FROM `courses` 
+WHERE courses.period = 'I semestre'
+AND courses.year = 1;
